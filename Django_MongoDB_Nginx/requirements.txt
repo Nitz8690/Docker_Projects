@@ -1,0 +1,5 @@
+uWSGI>=2.0.18,<2.1
+pillow==2.9.0
+Django
+djongo
+
